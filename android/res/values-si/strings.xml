@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LK Lottery Master</string>
+    <string name="app_subtitle">ශ්‍රී ලංකා DLB &amp; NLB නිල ලොතරැයි ප්‍රතිඵල හා ක්ෂණික QR ස්කෑනරය</string>
+    
+    <!-- Navigation -->
+    <string name="tab_scanner">ස්කෑනර්</string>
+    <string name="tab_results">ප්‍රතිඵල</string>
+    <string name="tab_history">ඉතිහාසය</string>
+    <string name="tab_lucky">වාසනා අනාවැකි</string>
+    <string name="tab_account">ගිණුම</string>
+    
+    <!-- Scanner -->
+    <string name="start_scan">QR ස්කෑන් ආරම්භ කරන්න</string>
+    <string name="stop_scan">කැමරාව නවත්වන්න</string>
+    <string name="ai_scan">AI ස්කෑන්</string>
+    <string name="ai_scan_desc">හානි වූ හෝ පැහැදිලි නැති ටිකට් පත් සඳහා AI තාක්ෂණය මගින් ප්‍රතිඵල පරීක්ෂා කරන්න.</string>
+    <string name="camera_hint">ලොතරැයි පතෙහි QR කේතය හෝ අංක කොටුව කැමරා රාමුව තුළ තබන්න</string>
+    <string name="torch_on">ෆ්ලෑෂ් ලයිට් ක්‍රියාත්මකයි</string>
+    <string name="torch_off">ෆ්ලෑෂ් ලයිට් ක්‍රියාවිරහිතයි</string>
+    <string name="zoom_label">සූම් (Focus):</string>
+    <string name="scan_countdown">මීළඟ ටිකට් පත සඳහා සූදානම් වෙමින් පවතී %1$d...</string>
+    <string name="scan_next_now">වහාම මීළඟ එක ස්කෑන් කරන්න</string>
+    
+    <!-- Result Alerts -->
+    <string name="won_title">සුභ පැතුම්! ඔබ දිනුම් ලාභියෙකි!</string>
+    <string name="won_subtitle">ඔබගේ ලොතරැයි පතට ත්‍යාගයක් හිමිව ඇත</string>
+    <string name="lose_title">කණගාටුයි, දිනුමක් නොමැත</string>
+    <string name="lose_subtitle">මීළඟ වාරයේ උත්සාහ කරන්න (Better Luck Next Time!)</string>
+    <string name="invalid_qr_title">ලොතරැයි QR කේතයක් නොවේ</string>
+    <string name="invalid_qr_subtitle">මෙය ශ්‍රී ලාංකික DLB හෝ NLB ලොතරැයි පතක QR කේතයක් නොවේ</string>
+    <string name="future_draw_title">ඉදිරි දිනුම් ඇදීමක්</string>
+    <string name="future_draw_subtitle">මෙම ටිකට් පතේ දිනුම් ඇදීම තවමත් පවත්වා නොමැත</string>
+    
+    <!-- Results -->
+    <string name="filter_all">සියලුම ලොතරැයි</string>
+    <string name="filter_dlb">DLB (සංවර්ධන)</string>
+    <string name="filter_nlb">NLB (ජාතික)</string>
+    <string name="search_hint">ලොතරැයි නම හෝ අංකය...</string>
+    <string name="draw_no">වාරය: %1$d</string>
+    <string name="draw_date">දිනය: %1$s</string>
+    <string name="jackpot_prize">ජයමල්ල: රු. %1$s</string>
+    <string name="valid_for_6_months">දින 180 (මාස 6) වලංගුයි</string>
+    <string name="ticket_expired">කල් ඉකුත් වී ඇත (> මාස 6)</string>
+    
+    <!-- Lucky Guess -->
+    <string name="lucky_guess_title">AI සහ සංඛ්‍යා ශාස්ත්‍ර අනාවැකිය</string>
+    <string name="lucky_guess_desc">සංඛ්‍යා විද්‍යාව සහ වෛදික ලග්න කේන්ද්‍රය සමග AI දත්ත රටා සංසන්දනය කර ජයග්‍රාහී අංක ලබාගන්න.</string>
+    <string name="first_name">මුල් නම</string>
+    <string name="last_name">වාසගම</string>
+    <string name="dob">උපන් දිනය</string>
+    <string name="birth_time">උපන් වේලාව</string>
+    <string name="calc_lucky_btn">වාසනා අංක ලබාගන්න</string>
+    <string name="recommended_numbers">නිර්දේශිත ජයග්‍රාහී අංක</string>
+    
+    <!-- History -->
+    <string name="total_scans">මුළු ස්කෑන්: %1$d</string>
+    <string name="total_wins">දිනූ වාර: %1$d</string>
+    <string name="total_won_amount">මුළු ජයග්‍රහණ: රු. %1$s</string>
+    <string name="clear_history">ඉතිහාසය මකන්න</string>
+    <string name="no_history">තවමත් කිසිදු ටිකට් පතක් ස්කෑන් කර නොමැත</string>
+    
+    <!-- Legal -->
+    <string name="official_notice">LK Lottery Master ස්වාධීන තාක්ෂණික යෙදුමකි. කරුණාකර ජයග්‍රහණ නිල මණ්ඩලයෙන් තහවුරු කරගන්න.</string>
+    <string name="copyright">© 2026 LK Lottery Master. High Precision Optical &amp; AI Engine.</string>
+</resources>

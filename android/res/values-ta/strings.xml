@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LK Lottery Master</string>
+    <string name="app_subtitle">இலங்கை DLB &amp; NLB அதிகாரப்பூர்வ முடிவுகள் மற்றும் QR ஸ்கேனர்</string>
+    
+    <!-- Navigation -->
+    <string name="tab_scanner">ஸ்கேனர்</string>
+    <string name="tab_results">முடிவுகள்</string>
+    <string name="tab_history">வரலாறு</string>
+    <string name="tab_lucky">அதிர்ஷ்ட கணிப்பு</string>
+    <string name="tab_account">கணக்கு</string>
+    
+    <!-- Scanner -->
+    <string name="start_scan">QR ஸ்கேனரைத் தொடங்குங்கள்</string>
+    <string name="stop_scan">கேமராவை நிறுத்து</string>
+    <string name="ai_scan">AI ஸ்கேன்</string>
+    <string name="ai_scan_desc">சேதமடைந்த அல்லது மங்கலான டிக்கெட்டுகளுக்கு AI மூலம் எண்களைச் சரிபார்க்கவும்.</string>
+    <string name="camera_hint">லாட்டரி QR குறியீட்டை கேமராவின் முன் காட்டுங்கள்</string>
+    <string name="torch_on">டார்ச் ஆன்</string>
+    <string name="torch_off">டார்ச் ஆஃப்</string>
+    <string name="zoom_label">ஜூம் (Focus):</string>
+    <string name="scan_countdown">அடுத்த டிக்கெட்டுக்கு தயாராகிறது %1$d...</string>
+    <string name="scan_next_now">உடனே அடுத்ததை ஸ்கேன் செய்</string>
+    
+    <!-- Result Alerts -->
+    <string name="won_title">வாழ்த்துகள்! நீங்கள் வெற்றி பெற்றுள்ளீர்கள்!</string>
+    <string name="won_subtitle">உங்கள் டிக்கெட்டுக்கு பரிசு கிடைத்துள்ளது</string>
+    <string name="lose_title">மன்னிக்கவும், வெற்றி இல்லை</string>
+    <string name="lose_subtitle">அடுத்த முறை முயற்சிக்கவும் (Better Luck Next Time)</string>
+    <string name="invalid_qr_title">லாட்டரி QR அல்ல</string>
+    <string name="invalid_qr_subtitle">இது செல்லுபடியாகும் இலங்கை லாட்டரி QR குறியீடு அல்ல</string>
+    <string name="future_draw_title">எதிர்கால குலுக்கல் டிக்கெட்</string>
+    <string name="future_draw_subtitle">இந்த டிக்கெட்டுக்கான குலுக்கல் இன்னும் நடைபெறவில்லை</string>
+    
+    <!-- Results -->
+    <string name="filter_all">அனைத்து லாட்டரிகள்</string>
+    <string name="filter_dlb">DLB (அபிவிருத்தி)</string>
+    <string name="filter_nlb">NLB (தேசிய)</string>
+    <string name="search_hint">லாட்டரி பெயர் அல்லது எண்...</string>
+    <string name="draw_no">குலுக்கல் எண்: %1$d</string>
+    <string name="draw_date">திகதி: %1$s</string>
+    <string name="jackpot_prize">பரிசு: ரூ. %1$s</string>
+    <string name="valid_for_6_months">180 நாட்கள் செல்லுபடியாகும்</string>
+    <string name="ticket_expired">காலாவதியானது (> 6 மாதங்கள்)</string>
+    
+    <!-- Lucky Guess -->
+    <string name="lucky_guess_title">AI மற்றும் எண்கணித அதிர்ஷ்ட கணிப்பு</string>
+    <string name="lucky_guess_desc">எண்கணிதம் மற்றும் வேத ஜோதிடத்தை AI தரவுகளுடன் ஒப்பிட்டு வெற்றி எண்களைப் பெறுங்கள்.</string>
+    <string name="first_name">முதல் பெயர்</string>
+    <string name="last_name">குடும்பப் பெயர்</string>
+    <string name="dob">பிறந்த திகதி</string>
+    <string name="birth_time">பிறந்த நேரம்</string>
+    <string name="calc_lucky_btn">அதிர்ஷ்ட எண்களைப் பெறுங்கள்</string>
+    <string name="recommended_numbers">பரிந்துரைக்கப்பட்ட எண்கள்</string>
+    
+    <!-- History -->
+    <string name="total_scans">மொத்த ஸ்கேன்கள்: %1$d</string>
+    <string name="total_wins">வெற்றி பெற்றவை: %1$d</string>
+    <string name="total_won_amount">மொத்த பரிசு: ரூ. %1$s</string>
+    <string name="clear_history">வரலாற்றை அழிக்கவும்</string>
+    <string name="no_history">இதுவரை டிக்கெட் எதுவும் ஸ்கேன் செய்யப்படவில்லை</string>
+    
+    <!-- Legal -->
+    <string name="official_notice">LK Lottery Master ஒரு சுயாதீன பயன்பாடாகும். பரிசுகளை அதிகாரப்பூர்வமாக சரிபார்க்கவும்.</string>
+    <string name="copyright">© 2026 LK Lottery Master. High Precision Optical &amp; AI Engine.</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LK Lottery Master</string>
+    <string name="app_subtitle">Official Sri Lanka DLB &amp; NLB Lottery Scanner, Results &amp; Voice Announcer</string>
+    
+    <!-- Navigation -->
+    <string name="tab_scanner">Scanner</string>
+    <string name="tab_results">Results</string>
+    <string name="tab_history">History</string>
+    <string name="tab_lucky">Lucky Guess</string>
+    <string name="tab_account">My Account</string>
+    
+    <!-- Scanner -->
+    <string name="start_scan">Start QR Scanner</string>
+    <string name="stop_scan">Stop Camera</string>
+    <string name="ai_scan">AI Ticket Scanner</string>
+    <string name="ai_scan_desc">For damaged or blurry tickets. Advanced AI reads numbers, letter, and matches results instantly.</string>
+    <string name="camera_hint">Point your camera directly at the lottery QR code or numbers</string>
+    <string name="torch_on">Torch On</string>
+    <string name="torch_off">Torch Off</string>
+    <string name="zoom_label">Focus / Zoom:</string>
+    <string name="scan_countdown">Readying for next ticket in %1$d...</string>
+    <string name="scan_next_now">Scan Next Immediately</string>
+    
+    <!-- Result Alerts -->
+    <string name="won_title">Congratulations! You Won!</string>
+    <string name="won_subtitle">You have a winning ticket</string>
+    <string name="lose_title">Better Luck Next Time</string>
+    <string name="lose_subtitle">No winning matches found on this ticket</string>
+    <string name="invalid_qr_title">Not a Lottery QR Code</string>
+    <string name="invalid_qr_subtitle">This QR code does not belong to Sri Lankan DLB or NLB lotteries</string>
+    <string name="future_draw_title">Future Draw Ticket</string>
+    <string name="future_draw_subtitle">The official draw for this ticket has not taken place yet</string>
+    
+    <!-- Results -->
+    <string name="filter_all">All Lotteries</string>
+    <string name="filter_dlb">DLB (Development)</string>
+    <string name="filter_nlb">NLB (National)</string>
+    <string name="search_hint">Search by lottery name or draw #...</string>
+    <string name="draw_no">Draw No: %1$d</string>
+    <string name="draw_date">Date: %1$s</string>
+    <string name="jackpot_prize">Jackpot: Rs. %1$s</string>
+    <string name="valid_for_6_months">Valid for 180 Days (6 Months)</string>
+    <string name="ticket_expired">Expired (> 6 Months)</string>
+    
+    <!-- Lucky Guess -->
+    <string name="lucky_guess_title">AI &amp; Numerology Lucky Prediction</string>
+    <string name="lucky_guess_desc">Harness ancient Numerology and Vedic Lagna astrology combined with AI frequency analysis to generate winning numbers.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="birth_time">Time of Birth</string>
+    <string name="calc_lucky_btn">Calculate My Lucky Numbers</string>
+    <string name="recommended_numbers">Recommended Winning Numbers</string>
+    
+    <!-- History -->
+    <string name="total_scans">Total Scans: %1$d</string>
+    <string name="total_wins">Total Wins: %1$d</string>
+    <string name="total_won_amount">Total Won: Rs. %1$s</string>
+    <string name="clear_history">Clear History</string>
+    <string name="no_history">No tickets scanned yet</string>
+    
+    <!-- Legal -->
+    <string name="official_notice">LK Lottery Master is an independent technological platform. Always verify claims with DLB or NLB.</string>
+    <string name="copyright">© 2026 LK Lottery Master. High Precision Optical &amp; AI Engine.</string>
+</resources>
